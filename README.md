@@ -7,6 +7,7 @@ Lise öncesinde ilgi duymaya başladığım yazılıma lisede kendimi geliştirm
 Arama butonunun gücüne inanırım, kendimi oldukça iyi bir Google kullanıcısı olarak tanımlayabilirim. İleride kendimi ERP sistemleri tasarlama ve programlama gibi günümüz işletmelerinin oldukça ihtiyaç duyduğu konularda geliştirmek istiyorum.
 
 🔭 Bu günlerde bir C2C web projesi üzerinde çalışıyorum.
+
 🌱 Kendimi Laravel üzerinde geliştirmeye çalışıyorum.
 <!--
 **aksoyih/aksoyih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
