@@ -1,16 +1,17 @@
 ### Merhaba 👋
 
-1997 İstanbul doğumluyum. İlkokula Türkiye’de başlayıp Hollanda’da, liseye de Hollanda’da başlayıp Türkiye’de bitirdim. Çocukluğumdan beri bilgisayarlara ve teknolojiye oldukça meraklıyım. Çocuk yaşlarda merak saldığım programlamayla ilgili ilk deneyimlerim lise öncesi dönemde olsa da liseye başladığımdan beri kendimi sürekli geliştirdim ve yeni şeyler öğrendim. Uzunca bir süre yurtdışında yaşadığım için Türkçeye hakim olduğum kadar Flemenkçeye ve İngilizceye hakimim.
+İstanbul doğumluyum. İlkokula Türkiye’de başlayıp Hollanda’da, liseye ise Hollanda’da başlayıp Türkiye’de bitirdim. Çocukluğumdan beri bilgisayarlara ve teknolojiye oldukça meraklıyım. Bu merakımın bir meyvesi olarak yazılıma ilgi duydum. Çocuk yaşlarda merak saldığım kodlamayla ilgili ilk deneyimlerim lise öncesi dönemde olsa da liseye başladığımdan beri kendimi sürekli geliştirdim ve yeni şeyler öğrendim. Uzunca bir süre yurtdışında yaşadığım için Türkçeye hakim olduğum kadar Flemenkçeye ve İngilizceye hakimim. Yönetim Bilişim Sistemleri mezunuyum. 
 
-Lise öncesinde ilgi duymaya başladığım yazılıma lisede kendimi geliştirmek adına küçük projeler yaparak başladım. Yaptığım projeler çoğunlukla web bazlı oldu. Bilmediğim konularda projeler geliştirmek beni her zaman heyecanlandırdı. Bu tür durumlarda Google en yakın dostum oldu. Karşılaştığım sorunları sormaktan ve yeni şeyler öğrenmekten kaçınmam.
+Lise öncesinde ilgi duymaya başladığım yazılıma lisede kendimi geliştirmek adına küçük projeler yaparak başladım. Yaptığım projeler çoğunlukla PHP alt yapılı web projeleri oldu. Bilmediğim konularda projeler geliştirmek beni her zaman heyecanlandırdı. Bu tür durumlarda Google en yakın dostum oldu. Karşılaştığım sorunları  araştırmaktan, çözüm bulamadığım soruları sormaktan ve yeni şeyler öğrenmekten kaçınmam. Bu sebeplerden dolayı kendimi ‘1X Engineer‘ olarak tanımlayabilirim.
 
-Arama butonunun gücüne inanırım, kendimi oldukça iyi bir Google kullanıcısı olarak tanımlayabilirim. İleride kendimi ERP sistemleri tasarlama ve programlama gibi günümüz işletmelerinin oldukça ihtiyaç duyduğu konularda geliştirmek istiyorum.
+Arama butonunun gücüne inanırım, kendimi oldukça iyi bir Google kullanıcısı olarak tanımlayabilirim.  Kendimi ERP sistem tasarımı ve kodlaması gibi günümüz işletmelerinin oldukça ihtiyaç duyduğu konularda geliştirmek istiyorum.
 
 🔭 Bu günlerde,
- - C2C web projesi üzerinde çalışıyorum.
  - Liselerde kullanılan ve öğrencilerin öğretmenlere çözemedikleri soruları göndermesine yarayan bir soru çözüm sistemi üzerinde çalışıyorum.
+ - Kendimi geliştirmek üzere kurslar takip ediyor ve uygulama geliştiriyorum
  
 🌱 Kendimi Laravel üzerinde geliştirmeye çalışıyorum.
+🌱 Kendimi NodeJs üzerinde geliştirmeye çalışıyorum.
 
 📫 Bana ulaşabileceğiniz mail adresim: [haluk@ihaksoy.com](mailto:haluk@ihaksoy.com)
 
