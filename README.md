@@ -9,9 +9,10 @@ Arama butonunun gücüne inanırım, kendimi oldukça iyi bir Google kullanıcı
 🔭 Bu günlerde,
  - Liselerde kullanılan ve öğrencilerin öğretmenlere çözemedikleri soruları göndermesine yarayan bir soru çözüm sistemi üzerinde çalışıyorum.
  - Kendimi geliştirmek üzere kurslar takip ediyor ve uygulama geliştiriyorum
- 
-🌱 Kendimi Laravel üzerinde geliştirmeye çalışıyorum.
-🌱 Kendimi NodeJs üzerinde geliştirmeye çalışıyorum.
+  
+ ⚡ Yaptıklarım
+ - 🌱 Kendimi Laravel üzerinde geliştirmeye çalışıyorum.
+ - 🌱 Kendimi NodeJs üzerinde geliştirmeye çalışıyorum.
 
 📫 Bana ulaşabileceğiniz mail adresim: [haluk@ihaksoy.com](mailto:haluk@ihaksoy.com)
 
