@@ -16,6 +16,8 @@ Arama butonunun gücüne inanırım, kendimi oldukça iyi bir Google kullanıcı
 
 📫 Bana ulaşabileceğiniz mail adresim: [haluk@ihaksoy.com](mailto:haluk@ihaksoy.com)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aksoyih)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **aksoyih/aksoyih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
