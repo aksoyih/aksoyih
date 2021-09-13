@@ -7,7 +7,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksoyih&layout=compact&theme=radical" />
 </a>
-
+<br /><br /><br /><br /><br /><br />
 
 İlkokula Türkiye’de başlayıp Hollanda’da, liseye ise Hollanda’da başlayıp Türkiye’de bitirdim. Çocukluğumdan beri bilgisayarlara ve teknolojiye oldukça meraklıyım. Bu merakımın bir meyvesi olarak yazılıma ilgi duydum. Çocuk yaşlarda merak saldığım kodlamayla ilgili ilk deneyimlerim lise öncesi dönemde olsa da liseye başladığımdan beri kendimi sürekli geliştirdim ve yeni şeyler öğrendim. Uzunca bir süre yurtdışında yaşadığım için Türkçeye hakim olduğum kadar Flemenkçeye ve İngilizceye hakimim. Yönetim Bilişim Sistemleri mezunuyum. 
 
