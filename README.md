@@ -1,5 +1,7 @@
 ### Merhaba 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aksoyih&show_icons=true&theme=radical)
+
 İlkokula Türkiye’de başlayıp Hollanda’da, liseye ise Hollanda’da başlayıp Türkiye’de bitirdim. Çocukluğumdan beri bilgisayarlara ve teknolojiye oldukça meraklıyım. Bu merakımın bir meyvesi olarak yazılıma ilgi duydum. Çocuk yaşlarda merak saldığım kodlamayla ilgili ilk deneyimlerim lise öncesi dönemde olsa da liseye başladığımdan beri kendimi sürekli geliştirdim ve yeni şeyler öğrendim. Uzunca bir süre yurtdışında yaşadığım için Türkçeye hakim olduğum kadar Flemenkçeye ve İngilizceye hakimim. Yönetim Bilişim Sistemleri mezunuyum. 
 
 Lise öncesinde ilgi duymaya başladığım yazılıma lisede kendimi geliştirmek adına küçük projeler yaparak başladım. Yaptığım projeler çoğunlukla PHP alt yapılı web projeleri oldu. Bilmediğim konularda projeler geliştirmek beni her zaman heyecanlandırdı. Bu tür durumlarda Google en yakın dostum oldu. Karşılaştığım sorunları  araştırmaktan, çözüm bulamadığım soruları sormaktan ve yeni şeyler öğrenmekten kaçınmam. Bu sebeplerden dolayı kendimi ‘1X Engineer‘ olarak tanımlayabilirim.
@@ -15,9 +17,6 @@ Arama butonunun gücüne inanırım, kendimi oldukça iyi bir Google kullanıcı
  - 🌱 Kendimi NodeJs üzerinde geliştirmeye çalışıyorum.
 
 📫 Bana ulaşabileceğiniz mail adresim: [haluk@ihaksoy.com](mailto:haluk@ihaksoy.com)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aksoyih&show_icons=true&theme=radical)
-
 
 <!--
 **aksoyih/aksoyih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
