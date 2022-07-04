@@ -8,8 +8,6 @@
 
 Lise öncesinde ilgi duymaya başladığım yazılıma lisede kendimi geliştirmek adına küçük projeler yaparak başladım. Yaptığım projeler çoğunlukla PHP alt yapılı web projeleri oldu. Bilmediğim konularda projeler geliştirmek beni her zaman heyecanlandırdı. Bu tür durumlarda Google en yakın dostum oldu. Karşılaştığım sorunları  araştırmaktan, çözüm bulamadığım soruları sormaktan ve yeni şeyler öğrenmekten kaçınmam. Bu sebeplerden dolayı kendimi ‘1X Engineer‘ olarak tanımlayabilirim.
 
-Arama butonunun gücüne inanırım, kendimi oldukça iyi bir Google kullanıcısı olarak tanımlayabilirim.  Kendimi ERP sistem tasarımı ve kodlaması gibi günümüz işletmelerinin oldukça ihtiyaç duyduğu konularda geliştirmek istiyorum.
-
 📫 Bana ulaşabileceğiniz mail adresim: [haluk@ihaksoy.com](mailto:haluk@ihaksoy.com)
 
 <!--
