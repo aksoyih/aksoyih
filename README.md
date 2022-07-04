@@ -10,14 +10,6 @@ Lise öncesinde ilgi duymaya başladığım yazılıma lisede kendimi geliştirm
 
 Arama butonunun gücüne inanırım, kendimi oldukça iyi bir Google kullanıcısı olarak tanımlayabilirim.  Kendimi ERP sistem tasarımı ve kodlaması gibi günümüz işletmelerinin oldukça ihtiyaç duyduğu konularda geliştirmek istiyorum.
 
-🔭 Bu günlerde,
- - Liselerde kullanılan ve öğrencilerin öğretmenlere çözemedikleri soruları göndermesine yarayan bir soru çözüm sistemi üzerinde çalışıyorum.
- - Kendimi geliştirmek üzere kurslar takip ediyor ve uygulama geliştiriyorum
-  
- ⚡ Yaptıklarım
- - 🌱 Kendimi Laravel üzerinde geliştirmeye çalışıyorum.
- - 🌱 Kendimi NodeJs üzerinde geliştirmeye çalışıyorum.
-
 📫 Bana ulaşabileceğiniz mail adresim: [haluk@ihaksoy.com](mailto:haluk@ihaksoy.com)
 
 <!--
