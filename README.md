@@ -7,10 +7,10 @@ Lise öncesinde ilgi duymaya başladığım yazılıma lisede kendimi geliştirm
 📫 Bana ulaşabileceğiniz mail adresim: [haluk@ihaksoy.com](mailto:haluk@ihaksoy.com)
 
 <a href="https://github-readme-stats.vercel.app/api?username=aksoyih&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aksoyih&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=aksoyih&show_icons=true&theme=radical" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aksoyih&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksoyih&layout=compact&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksoyih&layout=compact&theme=radical" />
 </a>
 
 <!--
