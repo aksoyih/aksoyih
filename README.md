@@ -1,25 +1,9 @@
-### Merhaba 👋
+### Hello 👋
 
-İlkokula Türkiye’de başlayıp Hollanda’da, liseye ise Hollanda’da başlayıp Türkiye’de bitirdim. Çocukluğumdan beri bilgisayarlara ve teknolojiye oldukça meraklıyım. Bu merakımın bir meyvesi olarak yazılıma ilgi duydum. Çocuk yaşlarda merak saldığım kodlamayla ilgili ilk deneyimlerim lise öncesi dönemde olsa da liseye başladığımdan beri kendimi sürekli geliştirdim ve yeni şeyler öğrendim. Uzunca bir süre yurtdışında yaşadığım için Türkçeye hakim olduğum kadar Flemenkçeye ve İngilizceye hakimim. Yönetim Bilişim Sistemleri mezunuyum. 
+I am an ambitious, analytical, and highly motivated PHP developer with a passion for learning and self-improvement. My journey in software development began at a young age, fueled by a deep curiosity for technology.
 
-Lise öncesinde ilgi duymaya başladığım yazılıma lisede kendimi geliştirmek adına küçük projeler yaparak başladım. Yaptığım projeler çoğunlukla PHP alt yapılı web projeleri oldu. Bilmediğim konularda projeler geliştirmek beni her zaman heyecanlandırdı. Bu tür durumlarda Google en yakın dostum oldu. Karşılaştığım sorunları  araştırmaktan, çözüm bulamadığım soruları sormaktan ve yeni şeyler öğrenmekten kaçınmam. Bu sebeplerden dolayı kendimi ‘1X Engineer‘ olarak tanımlayabilirim.
-
-📫 Bana ulaşabileceğiniz mail adresim: [me@halukaksoy.dev](mailto:me@halukaksoy.dev)
+📫 Lets meet: [me@halukaksoy.dev](mailto:me@halukaksoy.dev)
 
 <a href="https://github-readme-stats.vercel.app/api?username=aksoyih&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aksoyih&show_icons=true&theme=radical" />
 </a>
-<!--
-**aksoyih/aksoyih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
